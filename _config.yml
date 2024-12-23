@@ -37,20 +37,16 @@ disqus_shortname:   taylantatli
   #ad-client:
   #ad-slot:
 #bing-verify:
-#email:
-twitter:            username
-facebook:           username
-github-url:         https://github.com/nikolettarok
+#email:		    "nikolettarok@hotmail.com"
+github-url:         "https://github.com/nikolettarok"
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
-#linkedin:          https://www.linkedin.com/in/nikoletta-rokidou/
+#linkedin:          "https://www.linkedin.com/in/nikoletta-rokidou/"
 #xing:              username
-instagram:          username
 #lastfm:            username
 #tumblr:            username
 #medium:            '@username'
 #pinterest:         username
 #foursquare:        username
-steam:              username
 #dribbble:          username
 #youtube:           username
 #youtube-channel:   channel
