@@ -39,7 +39,7 @@ disqus_shortname:   taylantatli
 #bing-verify:
 email:		    "nikolettarok@hotmail.com"
 github-url:         "https://github.com/nikolettarok"
-linkedin:           "https://www.linkedin.com/in/nikoletta-rokidou/"
+linkedin:           "/in/nikoletta-rokidou/"
 
 # Gems
 gems:
