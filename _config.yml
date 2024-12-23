@@ -37,9 +37,9 @@ disqus_shortname:   taylantatli
   #ad-client:
   #ad-slot:
 #bing-verify:
-email:		    nikolettarok@hotmail.com
-github-url:         https://github.com/nikolettarok
-linkedin:           https://www.linkedin.com/in/nikoletta-rokidou/
+email:		    "nikolettarok@hotmail.com"
+github-url:         "https://github.com/nikolettarok"
+linkedin:           "https://www.linkedin.com/in/nikoletta-rokidou/"
 
 # Gems
 gems:
