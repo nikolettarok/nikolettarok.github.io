@@ -21,8 +21,8 @@ sass:
   style: compressed
 
 # Site Data
-url: # the base hostname & protocol for your site, e.g. http://example.com
-baseurl: # the subpath of your site, e.g. /blog
+url: https://github.com/nikolettarok/nikolettarok.github.io
+baseurl: https://nikolettarok.github.io
 title: Nikoletta Rokidou
 description: "I am in the process of transitioning into a data analytics role, with a strong focus on enhancing my technical expertise and analytical capabilities."
 keywords: 'jekyll,theme,gem-based,blog'
