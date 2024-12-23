@@ -1,7 +1,8 @@
 # Site
 title:              Nikoletta Rokidou
-bio:                'PwC Greece Data Quality Associate'
-description:        'Passionate about transitioning into a data analytics role. Currently enhancing my technical and analytical skills by attending a Data Analytics Bootcamp.'
+bio:                'PwC Greece Data Quality Associate
+Passionate about transitioning into a data analytics role. Currently enhancing my technical and analytical skills by attending a Data Analytics Bootcamp.'
+description:        
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/logo.png'
