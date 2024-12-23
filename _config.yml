@@ -2,7 +2,7 @@ title: Nikoletta Rokidou
 author: Abhinav Saxena
 url: https://www.abhinavsaxena.com/moonwalk # root address of the site
 description: > # description of the site (multiple lines allowed)
-  Currently pursuing a transition into data analytics, with a strong focus on developing technical expertise and analytical skills.
+  Passionate about transitioning into a Data Analytics role, continuously enhancing my technical and analytical skills.
 
 permalink: /:slug
 
@@ -32,11 +32,6 @@ theme_config:
   show_reading_time: true # show number of words and reading time in the blog posts
   show_tags: true # show tags in a blog posts
   # options for "home" page
-  home:
-    title_projects: Portfolio
-    title_misc_list: Details
-    title_blog: Blog
-    title_old_projects: Old Projects
 
 soopr:
   publish_token: "" # sign up at https://www.soopr.co to get your publish token and personalize share and reaction options
